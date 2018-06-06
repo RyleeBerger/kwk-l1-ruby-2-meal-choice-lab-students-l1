@@ -15,6 +15,10 @@ def dinner(food = "Burgers")
   "Dinner is the best time for Burgers!"
 end
 
+breakfast
+lunch 
+dinner
+
 
 
 # Call the methods with puts and your own arguments here. Like this:
