@@ -10,9 +10,9 @@ def dinner(food = "Burgers")
   "Dinner is the best time for Burgers!"
 end
 
-breakfast
-lunch 
-dinner
+puts breakfast
+puts lunch 
+puts dinner
 
 
 
